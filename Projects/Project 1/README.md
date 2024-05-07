@@ -1,8 +1,10 @@
 ## Project 1 Energy Consumption Predictive Model
 
   - The purpose of this project was to predict energy consumption based on various factors, such as Temperature, HVAC Usage, Occupancy Level, and Lighting Usage. We worked with both Linear Regression and Random Forest Regressor models.
+    
   - This project highlights the following approaches:
-  -   1) Identifying a dataset to work with
+    
+      1) Identifying a dataset to work with
       2) Cleaning the data
       3) Performing EDA
       4) Performing Feature Engineering
