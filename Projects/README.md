@@ -15,3 +15,4 @@
     5) Model Tuning
     6) Data Visualization
 
+- This repository also includes Project Proposals, Project Report and The Project Presentation
